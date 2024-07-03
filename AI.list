@@ -1,0 +1,39 @@
+# 内容：OpenAi claude Bard anthropic poe
+
+# OpenAI
+DOMAIN-KEYWORD
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIXapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+
+# claude
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,usefathom.com
+
+# anthropic
+DOMAIN-KEYWORD,anthropic
+
+# poe
+DOMAIN-SUFFIX,poe.com
+
+# Google Gemini
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN,perplexity.aibard.google.com
+DOMAIN-SUFFIX,waa-pa.clients6.google.com
