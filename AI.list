@@ -1,4 +1,4 @@
-# 内容：OpenAi claude Bard anthropic poe
+# 内容：OpenAI Claude Bard Anthropic Poe
 
 # OpenAI
 DOMAIN-KEYWORD
@@ -17,17 +17,17 @@ DOMAIN-SUFFIX,api-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 
-# claude
+# Claude
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,usefathom.com
 
-# anthropic
+# Anthropic
 DOMAIN-KEYWORD,anthropic
 
-# poe
+# Poe
 DOMAIN-SUFFIX,poe.com
 
 # Google Gemini
