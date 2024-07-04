@@ -1,7 +1,6 @@
 # 内容：OpenAI Claude Bard Anthropic Poe
 
 # OpenAI
-DOMAIN-KEYWORD
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
