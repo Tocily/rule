@@ -39,7 +39,6 @@ DOMAIN-SUFFIX,a.config.skype.com
 DOMAIN-SUFFIX,b.config.skype.com
 DOMAIN-SUFFIX,platform.bing.com
 DOMAIN-SUFFIX,microsofttranslator.com
-DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,delve.office.com
 DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,cdn.office.net
@@ -47,7 +46,6 @@ DOMAIN-SUFFIX,platform.twitter.com
 DOMAIN-SUFFIX,cdn.syndication.twimg.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,bingstatic.com
-DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,r.msftstatic.com
 DOMAIN-SUFFIX,rafd.bing.com
 DOMAIN-SUFFIX,rafd.staging-bing-int.com
