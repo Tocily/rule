@@ -53,7 +53,7 @@ DOMAIN,tv.apple.com
 DOMAIN,wego.here.com
 
 
-#DOMAIN-SUFFIX类
+# DOMAIN-SUFFIX类
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
