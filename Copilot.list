@@ -1,5 +1,7 @@
 # Copilot
 
-DOMAIN-SUFFIX,bing.cn
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,edgeassetservice
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,azureedge.net
