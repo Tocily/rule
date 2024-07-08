@@ -4,7 +4,8 @@
 DOMAIN-SUFFIX,localhost.weixin.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
-DOMAIN-SUFFIX,localhost.weixin.qq.com
-DOMAIN-SUFFIX,localhost.weixin.qq.com
-DOMAIN-SUFFIX,localhost.weixin.qq.com
-DOMAIN-SUFFIX,localhost.weixin.qq.com
+
+# Adobe系列防盗版检测
+PROCESS-NAME,localhost.Photoshop.exe
+DOMAIN-SUFFIX,localhost.Illustrator.exe
+DOMAIN-SUFFIX,localhost.Adobe Premiere Pro.exe
