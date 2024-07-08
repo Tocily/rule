@@ -3,6 +3,20 @@
 # MyList
 # 自定义添加
 
+# 应用程序匹配
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,Firmbank.exe
+PROCESS-NAME,CCBDetector.exe
+PROCESS-NAME,JSUsertool.exe
+PROCESS-NAME,JSNXu.exe
+PROCESS-NAME,DBTool_ABC.exe
+PROCESS-NAME,certd_I3000_CZBANK.exe
+PROCESS-NAME,D4Tool_ICBC.exe
+PROCESS-NAME,ICBCEBankAssist.exe
+PROCESS-NAME,NBCBCorpBankClient.exe
+PROCESS-NAME,BOCAssistant.exe
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
