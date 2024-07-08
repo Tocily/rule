@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 
 # Adobe系列防盗版检测
-PROCESS-NAME,localhost.Photoshop.exe
-DOMAIN-SUFFIX,localhost.Illustrator.exe
-DOMAIN-SUFFIX,localhost.Adobe Premiere Pro.exe
+PROCESS-NAME,Photoshop.exe
+PROCESS-NAME,Illustrator.exe
+PROCESS-NAME,Adobe Premiere Pro.exe
