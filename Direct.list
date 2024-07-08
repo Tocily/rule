@@ -6,6 +6,7 @@
 # 应用程序匹配
 PROCESS-NAME,WeChat.exe
 PROCESS-NAME,QQ.exe
+PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,Firmbank.exe
 PROCESS-NAME,CCBDetector.exe
 PROCESS-NAME,JSUsertool.exe
