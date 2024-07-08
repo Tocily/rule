@@ -2,3 +2,9 @@
 
 # QQ邮箱载入缓慢
 DOMAIN-SUFFIX,localhost.weixin.qq.com
+DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+DOMAIN-SUFFIX,localhost.weixin.qq.com
+DOMAIN-SUFFIX,localhost.weixin.qq.com
+DOMAIN-SUFFIX,localhost.weixin.qq.com
+DOMAIN-SUFFIX,localhost.weixin.qq.com
