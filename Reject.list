@@ -10,7 +10,11 @@ DOMAIN-SUFFIX,tpns.qq.com
 
 # 迅雷远程下载系统（不知道为什么会有这个链接，不知道为什么直连连不上它，索性屏蔽）
 DOMAIN-SUFFIX,remote.yuancheng.xunlei.com
+DOMAIN-SUFFIX,portal.yuancheng.xunlei.com
 DOMAIN-SUFFIX,yuancheng.homecloud.gigaget.com
+
+#不知道是什么
+DOMAIN-SUFFIX,m.ttkx.live
 
 # Adobe系列防盗版检测
 PROCESS-NAME,Photoshop.exe
