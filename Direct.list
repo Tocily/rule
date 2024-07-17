@@ -1,7 +1,16 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-# 自定义添加
+# 未整理列表
+DOMAIN-SUFFIX,biaozhun114.com
+DOMAIN-SUFFIX,100km.top
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,nxog.top
+DOMAIN-SUFFIX,xn--sss604efuw.com
+DOMAIN-SUFFIX,888484.xyz
+DOMAIN-SUFFIX,liucn.cc
+
+
 
 # 应用程序匹配
 PROCESS-NAME,WeChat.exe
