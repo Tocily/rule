@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 # 腾讯推送广告系统
 DOMAIN-SUFFIX,tpns.qq.com
 
+# 腾讯故障反馈系统？
+android.bugly.qq.com
+
 # 迅雷远程下载系统（不知道为什么会有这个链接，不知道为什么直连连不上它，索性屏蔽）
 DOMAIN-SUFFIX,remote.yuancheng.xunlei.com
 DOMAIN-SUFFIX,portal.yuancheng.xunlei.com
