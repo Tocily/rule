@@ -65,7 +65,7 @@
       ]
     },
     {
-      "process-name": [
+      "process_name": [
         "WeChat.exe",
         "QQ.exe",
         "qbittorrent.exe",
