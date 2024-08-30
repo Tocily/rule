@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "claude",
+        "anthropic"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "perplexity.ai",
+        "chatgpt.com",
+        "auth0.com",
+        "challenges.cloudflare.com",
+        "client-api.arkoselabs.com",
+        "events.statsigapi.net",
+        "featuregates.org",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "openai.com",
+        "api-site.azureedge.net",
+        "sentry.io",
+        "stripe.com",
+        "claude.ai.com",
+        "anthropic.com",
+        "claude.ai",
+        "usefathom.com",
+        "poe.com",
+        "bard.google.com",
+        "gemini.google.com",
+        "makersuite.google.com",
+        "perplexity.aibard.google.com",
+        "waa-pa.clients6.google.com"
+      ]
+    }
+  ]
+}
