@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "localhost.weixin.qq.com",
+        "localhost.sec.qq.com",
+        "localhost.ptlogin2.qq.com",
+        "tpns.qq.com",
+        "android.bugly.qq.com",
+        "remote.yuancheng.xunlei.com",
+        "portal.yuancheng.xunlei.com",
+        "yuancheng.homecloud.gigaget.com",
+        "m.ttkx.live"
+      ]
+    },
+    {
+      "process_name": [
+        "Photoshop.exe",
+        "Illustrator.exe",
+        "Adobe Premiere Pro.exe"
+      ]
+    }
+  ]
+}
