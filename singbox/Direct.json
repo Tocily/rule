@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+	    "time.windows.com",
+        "i.toci.vip",
+        "weixinsxy.com",
+        "wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_suffix":
+        ".cn",
+        ".com.cn",
+        ".gov.cn",
+        ".edu.cn",
+        ".lanzov.com",
+        ".hao123.com",
+        ".biaozhun114.com",
+        ".100km.top",
+        ".ghproxy.com",
+        ".nxog.top",
+        ".xn--sss604efuw.com",
+        ".xn--z7x900a.live",
+        ".888484.xyz",
+        ".liucn.cc",
+        ".tiktokglobalshop.com",
+        ".paypal.com",
+        ".paypal.me",
+        ".paypal-mktg.com",
+        ".paypalobjects.com",
+        ".m-team.cc",
+        ".m-team.io",
+        ".m-team.co",
+        ".360.com",
+        ".alibaba.com",
+        ".alicdn.com",
+        ".alibabausercontent.com",
+        ".alibabausercontent.com",
+        ".alibabausercontent.com",
+        ".alibabausercontent.com",
+        ".alibabausercontent.com",
+        ".icloud.com.cn",
+        ".apple.com.cn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "baidu",
+        "cherrytv",
+        "cherr"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "129.226.3.47/32",
+        "219.146.1.66/32",
+        "219.147.1.66/32",
+        "119.29.29.29/32",
+        "223.5.5.5/32",
+        "223.6.6.6/32",
+        "180.76.76.76/32",
+        "114.114.114.114/32",
+        "114.114.115.115/32",
+        "162.62.163.63/32"
+      ]
+    },
+    {
+      "process-name": [
+        "WeChat.exe",
+        "QQ.exe",
+        "qbittorrent.exe",
+        "Firmbank.exe",
+        "CCBDetector.exe",
+        "JSUsertool.exe",
+        "JSNXu.exe",
+        "DBTool_ABC.exe",
+        "certd_I3000_CZBANK.exe",
+        "D4Tool_ICBC.exe",
+        "ICBCEBankAssist.exe",
+        "NBCBCorpBankClient.exe",
+        "BOCAssistant.exe"
+      ]
+    }
+  ]
+}
