@@ -32,6 +32,7 @@ PROCESS-NAME,BOCAssistant.exe
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,core.windows.net
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,plex.direct
