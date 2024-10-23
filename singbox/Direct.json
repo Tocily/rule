@@ -4,6 +4,7 @@
     {
       "domain": [
         "time.windows.com",
+        "core.windows.net",
         "i.toci.vip",
         "jellyfin.toci.vip",
         "alist.toci.vip",
